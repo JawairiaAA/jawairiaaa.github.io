@@ -3,8 +3,8 @@ title: "SMAP soil moisture assimilation to enhance streamflow estimates across S
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 
-venue: ''
+date: 2022-09-28
+venue: 'IEEE International Geoscience and Remote Sensing Symposium'
 paperurl: ''
 citation: 'Ahmad, J. A., Forman, B. A., Getirana, A. and Kumar, S.V., 2022. SMAP soil moisture assimilation to enhance streamflow estimates across South Asia. 2022 IEEE International Geoscience and Remote Sensing Symposium, pp. 7705-7708, doi: 10.1109/IGARSS46834.2022.9884923'
 ---
