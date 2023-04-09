@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a hydrology enthusiast and Earth scientist. I study the terrestrial water cycle and the corresponding cryospheric and hydrologic conditions across water-stressed regions around the globe. My aim is to enhance the simulated connectivity between the hydrosphere and the anthroposphere by leveraging the latest advances in AI.
+“<font size=”15”>I am a hydrology enthusiast and Earth scientist. I study the terrestrial water cycle and the corresponding cryospheric and hydrologic conditions across water-stressed regions around the globe. My aim is to enhance the simulated connectivity between the hydrosphere and the anthroposphere by leveraging the latest advances in AI.
