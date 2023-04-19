@@ -1,15 +1,13 @@
 ---
-title: " Title Number 2"
+title: "Soil moisture estimation in South Asia via assimilation of SMAP retrievals"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2022-04-29
+venue: 'Hydrology and Earth System Sciences'
+paperurl: ''
+citation: 'Ahmad, J.A., Forman, B.A. and Kumar, S.V., 2022. Soil moisture estimation in South Asia via assimilation of SMAP retrievals. Hydrology and Earth System Sciences, 26(8), pp.2221-2243.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+A soil moisture retrieval assimilation framework is implemented across South Asia in an attempt to improve regional soil moisture estimation as well as to provide a consistent regional soil moisture dataset. This study aims to improve the spatiotemporal variability of soil moisture estimates by assimilating Soil Moisture Active Passive (SMAP) near-surface soil moisture retrievals into a land surface model. The Noah-MP (v4.0.1) land surface model is run within the NASA Land Information System software framework to model regional land surface processes. NASA Modern-Era Retrospective Analysis for Research and Applications (MERRA2) and Global Precipitation Measurement (GPM) Integrated Multi-satellitE Retrievals (IMERG) provide the meteorological boundary conditions to the land surface model. Assimilation is carried out using both cumulative distribution function (CDF)-corrected (DA-CDF) and uncorrected SMAP retrievals (DA-NoCDF). CDF matching is applied to correct the statistical moments of the SMAP soil moisture retrieval relative to the land surface model. Comparison of assimilated and model-only soil moisture estimates with publicly available in situ measurements highlights the relative improvement in soil moisture estimates by assimilating SMAP retrievals. Across the Tibetan Plateau, DA-NoCDF reduced the mean bias and RMSE by 8.4% and 9.4%, even though assimilation only occurred during less than 10% of the study period due to frozen (or partially frozen) soil conditions. The best goodness-of-fit statistics were achieved for the IMERG DA-NoCDF soil moisture experiment. The general lack of publicly available in situ measurements across irrigated areas limited a domain-wide direct model validation. However, comparison with regional irrigation patterns suggested correction of biases associated with an unmodeled hydrologic phenomenon (i.e., anthropogenic influence via irrigation) as a result of SMAP soil moisture retrieval assimilation. The greatest sensitivity to assimilation was observed in cropland areas. Improvements in soil moisture potentially translate into improved spatiotemporal patterns of modeled evapotranspiration, although limited influence from soil moisture assimilation was observed on modeled processes within the carbon cycle such as gross primary production. Improvement in fine-scale modeled estimates by assimilating coarse-scale retrievals highlights the potential of this approach for soil moisture estimation over data-scarce regions.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://doi.org/10.5194/hess-26-2221-2022)
