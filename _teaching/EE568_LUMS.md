@@ -2,7 +2,7 @@
 title: "EE568: Remote sensing of the environment"
 collection: teaching
 type: "Graduate course"
-permalink: https://wit.lums.edu.pk/EE568
+permalink: /teaching/EE568
 venue: "SBA School of Science and Engineering, Lahore University of Management Sciences (LUMS)"
 date: Spring 2022 and 2023
 location: "Lahore, Pakistan"
