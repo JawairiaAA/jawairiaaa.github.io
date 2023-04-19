@@ -15,10 +15,10 @@ In the past, I explored data assimilation and applied machine learning to improv
 Education:\\
 Ph.D. Civil Engineering, University of Maryland- 2021\\	
 M.S. Civil Engineering, University of Maryland- 2018\\
-B.S. Civil Engineering, University of Engineering and Technology Peshawar- 2015       	
+B.S. Civil Engineering, University of Engineering & Technology- 2015       	
 
-Professional Experience\\
+Professional Experience:\\
 Climate and Cryosphere Fellow- 2022 to 2023\\
-Post-doctoral Fellow and Adjunct Faculty, Center for Water Informatics & Technology, LUMS- 2021 to present\\
+Post Doc and Adjunct Faculty, LUMS- 2021 to present\\
 Consultant, World Bank Group- 2021 to present\\
 Graduate Research Assistant, University of Maryland- 2016 to 2021
